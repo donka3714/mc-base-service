@@ -37,6 +37,9 @@
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-arc</artifactId>
     </dependency>
+	<!--One-->
+	<!--two-->
+	<!--three-->
     <!--<dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-resteasy-reactive</artifactId>
